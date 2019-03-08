@@ -1,4 +1,6 @@
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/RiverLoad)](https://cran.r-project.org/package=RiverLoad)
 [![](https://cranlogs.r-pkg.org/badges/RiverLoad)](https://cran.r-project.org/package=RiverLoad)
+
 
 # RiverLoad
 Load Estimation of River Compounds with Different Methods<br><br>
