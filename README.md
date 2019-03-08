@@ -37,6 +37,11 @@ met6 <- method6(union1, 2)
 met7 <- beale.ratio(union1, 2)
 ```
 
+## Getting Help or Reporting an Issue
+To report bugs/issues/feature requests, please file an issue.
+
+These are very welcome!
+
 ## Citation
 Veronica Nava, Martina Patelli, Marco Rotiroti, Barbara Leoni (2019).
   An R package for estimating river compound load using different
