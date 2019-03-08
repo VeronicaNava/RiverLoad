@@ -1,0 +1,20 @@
+citHeader("To cite RiverLoad in publications use:")
+
+citEntry(entry = "Article",
+  title        = "An R package for estimating river compound load using different methods",
+  author       = personList(as.person("Veronica Nava"),
+                   as.person("Martina Patelli"),
+                   as.person("Marco Rotiroti"),
+                   as.person("Barbara Leoni")),
+  journal      = "Environmental Modelling and Software",
+  year         = "2019",
+  volume       = "",
+  number       = "",
+  pages        = "",
+  url          = "",
+
+  textVersion  =
+  paste("Veronica Nava, Martina Patelli, Marco Rotiroti, Barbara Leoni (2019).",
+        "An R package for estimating river compound load using different methods.",
+        "Environmental Modelling and Software, SUBMITTED.")
+)
