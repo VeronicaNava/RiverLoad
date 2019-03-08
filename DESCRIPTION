@@ -1,0 +1,13 @@
+Package: RiverLoad
+Type: Package
+Title: Load Estimation of River Compounds with Different Methods
+Version: 1.0
+Date: 2019-01-23
+Author: Veronica Nava [aut, cre], Martina Patelli [ctb], Marco Rotiroti [ctb], Barbara Leoni [ctb]
+Maintainer: Veronica Nava <veronicanava245@gmail.com>
+Description: Implements several of the most popular load estimation procedures, including averaging methods, ratio estimators and regression methods. The package provides an easy-to-use tool to rapidly calculate the load for various compounds and to compare different methods. The package also supplies additional functions to easily organize and analyze the data.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 2.10)
+Imports: graphics, grDevices, stats 
