@@ -38,7 +38,7 @@ met7 <- beale.ratio(union1, 2)
 ```
 
 ## Getting Help or Reporting an Issue
-To report bugs/issues/feature requests, please file an issue.
+To report bugs/issues/feature requests, please file an [issue](https://github.com/VeronicaNava/RiverLoad/issues).
 
 These are very welcome!
 
