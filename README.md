@@ -1,3 +1,5 @@
+[![](https://cranlogs.r-pkg.org/badges/RiverLoad)](https://cran.r-project.org/package=RiverLoad)
+
 # RiverLoad
 Load Estimation of River Compounds with Different Methods<br><br>
 The `'RiverLoad'` package implements several of the most popular load estimation procedures, including averaging methods, ratio estimators and regression methods. The package provides an easy-to-use tool to rapidly calculate the load for various compounds and to compare different methods. The package also supplies additional functions to easily organize and analyze the data.<br><br>
