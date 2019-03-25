@@ -47,7 +47,7 @@ These are very welcome!
 ## Citation
 Veronica Nava, Martina Patelli, Marco Rotiroti, Barbara Leoni (2019).
   An R package for estimating river compound load using different
-  methods. Environmental Modelling and Software, SUBMITTED.
+  methods. Environmental Modelling and Software, In press. doi.org/10.1016/j.envsoft.2019.03.012
 
 
 ## Contributors
