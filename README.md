@@ -18,7 +18,7 @@ First the package must be loaded into R:
 library(RiverLoad)
 ```
 
-You can view a list of functions available in rLakeAnalyzer with:
+You can view a list of functions available in RiverLoad with:
 ```r
 help(package = "RiverLoad")
 ```
